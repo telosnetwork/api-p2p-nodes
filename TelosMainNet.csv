@@ -12,7 +12,7 @@ TelosGlobal,telosglobal1,node1.na.telosglobal.io:9876,node1.na.telosglobal.io:88
 TelosGlobal,telosglobal1,node2.na.telosglobal.io:9876,node2.na.telosglobal.io:8888,No,p2p-peer-address = node2.na.telosglobal.io:9876
 SwedenCorNet (TELOS/EOS Sweden),swedencornet,telos.eossweden.eu:8012,telos.eossweden.eu,Yes,p2p-peer-address = telos.eossweden.eu:8012
 Telos Miami,telosmiamibp,p2p.eos.miami:13975,https://api.eos.miami:17441,Yes,p2p-peer-address = p2p.eos.miami:13975
-Telos-21Zephyr,21zephyr1111,p2p.telos-21zephyr.com:9876,http://api.telos-21zephyr.com:8888,No,p2p-peer-address = p2p.telos-21zephyr.com:9876
+Telos-21Zephyr,21zephyr1111,p2p.telos-21zephyr.com:9876,http://api.telos-21zephyr.com:8888,Yes,p2p-peer-address = p2p.telos-21zephyr.com:9876
 Telos Madrid,telosmadrid1,seed.telosmadrid.io:9876,https://api.telosmadrid.io,Out of date,p2p-peer-address = seed.telosmadrid.io:9876
 Telos Unlimited,telosunlimit,p2p.telosunlimited.io:9876,https://api.telosunlimited.io,Yes,p2p-peer-address = p2p.telosunlimited.io:9876
 InfinityBloc,infinitybloc,p2p.infinitybloc.io:9877,https://api-telos.infinitybloc.io,No,p2p-peer-address = p2p.infinitybloc.io:9877
