@@ -3,7 +3,7 @@ KainosBP,kainosblkpro,p2p.kainosbp.com:9876,http://api.kainosbp.com:8888,Yes,p2p
 Telos-Venezuela,tlsvenezuela,p2p.telosvenezuela.com,api.telosvenezuela.com,Yes,p2p-peer-address = p2p.telosvenezuela.com
 TelosNewYork,telosnewyork,p2p.nytelos.com:8012,https://api.nytelos.com,Yes,p2p-peer-address = p2p.nytelos.com:8012
 eos Barcelona,eosbarcelona,78.46.100.24:9876,https://telos.eos.barcelona,Yes,p2p-peer-address = 78.46.100.24:9876
-TelosGreen,telosgreenbp,p2p.telos.telosgreen.com:9876,http://api.telos.telosgreen.com:8011,No,p2p-peer-address = p2p.telos.telosgreen.com:9876
+TelosGreen,telosgreenbp,p2p.telos.telosgreen.com:9876,http://api.telos.telosgreen.com:8011,Yes,p2p-peer-address = p2p.telos.telosgreen.com:9876
 TelosGlobal,telosglobal1,node1.emea.telosglobal.io:9876,node1.emea.telosglobal.io:8888,No,p2p-peer-address = node1.emea.telosglobal.io:9876
 TelosGlobal,telosglobal1,node2.emea.telosglobal.io:9876,node2.emea.telosglobal.io:8888,No,p2p-peer-address = node2.emea.telosglobal.io:9876
 TelosGlobal,telosglobal1,node1.apac.telosglobal.io:9876,node1.apac.telosglobal.io:8888,No,p2p-peer-address = node1.apac.telosglobal.io:9876
