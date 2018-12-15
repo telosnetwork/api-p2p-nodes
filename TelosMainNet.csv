@@ -32,6 +32,7 @@ EOS SanDiego,eossandiego1,p2p.eossandiego.io:9876,https://api.eossandiego.io,,p2
 Telos Intasia,telosintasia,telosseed.ikuwara.com:9876,telosseed.ikuwara.com:8889,No,p2p-peer-address = telosseed.ikuwara.com:9876
 JijiPlan ,jijiplannode,197.234.238.72:9876,197.234.238.72:9888,Yes,p2p-peer-address = 197.234.238.72:9876
 TelosDAC,telosdacnode,p2p.telosdac.io:9876,https://api.telosdac.io, Yes,p2p-peer-address = p2p.telosdac.io:9876
+CSX Community,csxcommunity,p2p.telos.csx.io:9876,http://api.telos.csx.io:8787, Yes, p2p-peer-address = p2p.telos.csx.io:9876
 ,,,,,p2p-peer-address = 
 ,,,,,p2p-peer-address = 
 ,,,,,p2p-peer-address = 
