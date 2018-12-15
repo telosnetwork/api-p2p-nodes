@@ -4,12 +4,12 @@ Telos-Venezuela,tlsvenezuela,p2p.telosvenezuela.com,api.telosvenezuela.com,Yes,p
 TelosNewYork,telosnewyork,p2p.nytelos.com:8012,https://api.nytelos.com,Yes,p2p-peer-address = p2p.nytelos.com:8012
 eos Barcelona,eosbarcelona,78.46.100.24:9876,https://telos.eos.barcelona,Yes,p2p-peer-address = 78.46.100.24:9876
 TelosGreen,telosgreenbp,p2p.telos.telosgreen.com:9876,http://api.telos.telosgreen.com:8011,Yes,p2p-peer-address = p2p.telos.telosgreen.com:9876
-TelosGlobal,telosglobal1,node1.emea.telosglobal.io:9876,node1.emea.telosglobal.io:8888,No,p2p-peer-address = node1.emea.telosglobal.io:9876
-TelosGlobal,telosglobal1,node2.emea.telosglobal.io:9876,node2.emea.telosglobal.io:8888,No,p2p-peer-address = node2.emea.telosglobal.io:9876
-TelosGlobal,telosglobal1,node1.apac.telosglobal.io:9876,node1.apac.telosglobal.io:8888,No,p2p-peer-address = node1.apac.telosglobal.io:9876
-TelosGlobal,telosglobal1,node2.apac.telosglobal.io:9876,node2.apac.telosglobal.io:8888,No,p2p-peer-address = node2.apac.telosglobal.io:9876
+TelosGlobal,telosglobal1,node1.emea.telosglobal.io:9876,node1.emea.telosglobal.io:8888,Yes,p2p-peer-address = node1.emea.telosglobal.io:9876
+TelosGlobal,telosglobal1,node2.emea.telosglobal.io:9876,node2.emea.telosglobal.io:8888,Yes,p2p-peer-address = node2.emea.telosglobal.io:9876
+TelosGlobal,telosglobal1,node1.apac.telosglobal.io:9876,node1.apac.telosglobal.io:8888,Yes,p2p-peer-address = node1.apac.telosglobal.io:9876
+TelosGlobal,telosglobal1,node2.apac.telosglobal.io:9876,node2.apac.telosglobal.io:8888,Yes,p2p-peer-address = node2.apac.telosglobal.io:9876
 TelosGlobal,telosglobal1,node1.na.telosglobal.io:9876,node1.na.telosglobal.io:8888,Yes,p2p-peer-address = node1.na.telosglobal.io:9876
-TelosGlobal,telosglobal1,node2.na.telosglobal.io:9876,node2.na.telosglobal.io:8888,No,p2p-peer-address = node2.na.telosglobal.io:9876
+TelosGlobal,telosglobal1,node2.na.telosglobal.io:9876,node2.na.telosglobal.io:8888,Yes,p2p-peer-address = node2.na.telosglobal.io:9876
 SwedenCorNet (TELOS/EOS Sweden),swedencornet,telos.eossweden.eu:8012,telos.eossweden.eu,Yes,p2p-peer-address = telos.eossweden.eu:8012
 Telos Miami,telosmiamibp,p2p.eos.miami:13975,https://api.eos.miami:17441,Yes,p2p-peer-address = p2p.eos.miami:13975
 Telos-21Zephyr,21zephyr1111,p2p.telos-21zephyr.com:9876,http://api.telos-21zephyr.com:8888,Yes,p2p-peer-address = p2p.telos-21zephyr.com:9876
