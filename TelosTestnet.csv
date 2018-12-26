@@ -1,4 +1,4 @@
-BP Team Name,BP Account Name,P2P Endpoint,API Endpoint,,,Working
+BP Team Name,BP Account Name,P2P Endpoint,API Endpoint,,
 AtticLab,atticlabtlbp,159.69.63.222:7776,http://159.69.63.222:7777,p2p-peer-address = 159.69.63.222:7776,,
 blindblocart,blindblocart,109.237.25.217:3876,http://109.237.25.217:3888,p2p-peer-address = 109.237.25.217:3876,,
 CalEOS,caleosblocks,38.128.66.165:9876,,p2p-peer-address = 38.128.66.165:9876,,
