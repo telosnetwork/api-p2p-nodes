@@ -20,7 +20,7 @@ infinitybloc,infinitybloc,173.255.220.117:3876,http://173.255.220.117:3888,Yes,p
 JijiPlan DAC,jijiplannode,http://207.148.6.75:9876,http://207.148.6.75:8888,Yes,p2p-peer-address = http://207.148.6.75:9876,
 KainosBP,kainosblkpro,216.188.224.131:9876,216.188.224.131:8888,No,p2p-peer-address = 216.188.224.131:9876,
 Octagon Labs,octagontelos,test.octagonlabs.net:9876,test.octagonlabs.net:8888,No,p2p-peer-address = test.octagonlabs.net:9876,
-Swedencornet ,swedencornet,testnet.telos.eossweden.eu:8022,https://testnet.telos.eossweden.eu,Yes,p2p-peer-address = testnet.telos.eossweden.eu:8022,
+Swedencornet,swedencornet,testnet.telos.eossweden.eu:8022,https://testnet.telos.eossweden.eu,Yes,p2p-peer-address = testnet.telos.eossweden.eu:8022,
 Telos Canton,teloscantons,testnode1.teloscanton.io:5806,https://apitestnode1.teloscanton.io,Yes,p2p-peer-address = testnode1.teloscanton.io:5806,
 Telos Central,teloscentral,192.168.0.59:9876,192.168.0.59:8888,No,p2p-peer-address = 192.168.0.59:9876,
 Telos China,telasiaChina,telos.telasiachina.com:9876,https://testnet.telasiachina.com:8889,Yes,p2p-peer-address = telos.telasiachina.com:9876,
