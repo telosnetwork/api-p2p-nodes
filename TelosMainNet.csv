@@ -1,5 +1,3 @@
-"Please add your Mainnet P2P and API info here, and keep up to date. For API nodes, be sure to include the prefix (http, https) and port number.",,,,Current mainnet version/release tag is oak-v1.4.5.,
-BP Team Name,BP Account Name,P2P Endpoint,API Endpoint,"API responding, up 2 date",
 AtticLab,atticlabtlbp,195.201.82.181:9876,http://telos.atticlab.net:8888,YES,p2p-peer-address = 195.201.82.181:9876
 Awake,telawakeiobp,47.52.71.18:9876,https://telosapi.eosawake.io:443,YES,p2p-peer-address = 47.52.71.18:9876
 Beyond Bitcoin,beyondbtctls,207.180.220.203:9876,http://207.180.220.203:8888,Yes,p2p-peer-address = 207.180.220.203:9876
