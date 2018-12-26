@@ -1,3 +1,4 @@
+BP Team Name,BP Account Name,P2P Endpoint,API Endpoint,"API responding, up 2 date",
 AtticLab,atticlabtlbp,195.201.82.181:9876,http://telos.atticlab.net:8888,YES,p2p-peer-address = 195.201.82.181:9876
 Awake,telawakeiobp,47.52.71.18:9876,https://telosapi.eosawake.io:443,YES,p2p-peer-address = 47.52.71.18:9876
 Beyond Bitcoin,beyondbtctls,207.180.220.203:9876,http://207.180.220.203:8888,Yes,p2p-peer-address = 207.180.220.203:9876
@@ -27,7 +28,7 @@ InfinityBloc,infinitybloc,seed-telos.infinitybloc.io:9877,https://api-telos.infi
 JijiPlan ,jijiplannode,live.jijiplan.com:9876,live.jijiplan.com:9888,Yes,p2p-peer-address = live.jijiplan.com:9876
 KainosBP,kainosblkpro,p2p.kainosbp.com:9876,http://api.kainosbp.com:8888,Yes,p2p-peer-address = p2p.kainosbp.com:9876
 Octagon Labs,octagontelos,telos.octagonlabs.net:9876,http://telos.octagonlabs.net,Yes,p2p-peer-address = telos.octagonlabs.net:9876
-SwedenCorNet (TELOS/EOS Sweden),swedencornet,telos.eossweden.eu:8012,http://telos.eossweden.eu,Yes,p2p-peer-address = telos.eossweden.eu:8012
+SwedenCorNet,swedencornet,telos.eossweden.eu:8012,http://telos.eossweden.eu,Yes,p2p-peer-address = telos.eossweden.eu:8012
 Telos Canton,teloscantons,producer.teloscanton.io:5806,https://full.teloscanton.io,Yes,p2p-peer-address = producer.teloscanton.io:5806
 Telos Central,teloscentral,3.17.74.96:9876,3.17.74.96:8888,Yes,p2p-peer-address = 3.17.74.96:9876
 Telos China,telasiachina,mainnet.telasiachina.com:9876,https://mainnet.telasiachina.com:8889,YES,p2p-peer-address = mainnet.telasiachina.com:9876
