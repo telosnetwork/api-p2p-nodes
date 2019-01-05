@@ -17,7 +17,7 @@ Telos GoingOS,telgoingosbp,testnet.goingos.org:9876,https://testnet.goingos.org:
 Telos Green,telosgreenbp,p2p.testnet.telosgreen.com:9876,api.testnet.telosgreen.com:8888,p2p-peer-address = p2p.testnet.telosgreen.com:9876,,
 Telos Intasia,telosintasia,telostestnet.ikuwara.com:9876,telostestnet.ikuwara.com:8888,p2p-peer-address = telostestnet.ikuwara.com:9876,,
 Telos Madrid,telosmadrid1,95.216.18.207:9876,http://95.216.18.207:8888,p2p-peer-address = 95.216.18.207:9876,,
-Telos Miami,telosmiamibp,testnet.eos.miami:13975,https://testnet.eos.miami:17441,p2p-peer-address = testnet.eos.miami:13975,,
+Telos Miami,telosmiamibp,testnet.eos.miami:13975,https://testnet.eos.miami,p2p-peer-address = testnet.eos.miami:13975,,
 Telos New York,telosnewyork,p2p.testnet.nytelos.com:8012,http://api.testnet.nytelos.com,p2p-peer-address = p2p.testnet.nytelos.com:8012,,
 Telos UK,telosuknodes,testnet-p2p.telosuk.io:9876,https://testnet-api.telosuk.io,p2p-peer-address = testnet-p2p.telosuk.io:9876,,
 Telos Unlimited,telosunlimit,p2p.testnet.telosnulimited.io:9876,https://api.testnet.telosunlimited.io,p2p-peer-address = p2p.testnet.telosnulimited.io:9876,,
