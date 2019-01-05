@@ -35,7 +35,7 @@ Telos China,telasiachina,mainnet.telasiachina.com:9876,https://mainnet.telasiach
 Telos GoingOS,telgoingosbp,telosapi.goingos.org:9876,https://telosapi.goingos.org:8889,p2p-peer-address = telosapi.goingos.org:9876
 Telos Intasia,telosintasia,telosseed.ikuwara.com:9876,telosseed.ikuwara.com:8888,p2p-peer-address = telosseed.ikuwara.com:9876
 Telos Madrid,telosmadrid1,seed.telosmadrid.io:9876,https://api.telosmadrid.io,p2p-peer-address = seed.telosmadrid.io:9876
-Telos Miami,telosmiamibp,p2p.eos.miami:13975,https://api.eos.miami:17441,p2p-peer-address = p2p.eos.miami:13975
+Telos Miami,telosmiamibp,p2p.eos.miami:13975,https://api.eos.miami,p2p-peer-address = p2p.eos.miami:13975
 Telos UK,telosuknodes,p2p.telosuk.io:9876,https://api.telosuk.io,p2p-peer-address = p2p.telosuk.io:9876
 Telos Unlimited,telosunlimit,p2p.telosunlimited.io:9876,https://api.telosunlimited.io,p2p-peer-address = p2p.telosunlimited.io:9876
 Telos Vancouver,tlsvancouver,p2p.telosvancouver.io:9876,https://api.telosvancouver.io:7777,p2p-peer-address = p2p.telosvancouver.io:9876
