@@ -26,7 +26,7 @@ GoodBlock,goodblocktls,chia.seed.tlos.goodblock.io:9876,https://api.tlos.goodblo
 GoodBlock,goodblocktls,flax.seed.tlos.goodblock.io:9876,https://api.tlos.goodblock.io/,p2p-peer-address = flax.seed.tlos.goodblock.io:9876
 InfinityBloc,infinitybloc,seed-telos.infinitybloc.io:9877,https://api-telos.infinitybloc.io,p2p-peer-address = seed-telos.infinitybloc.io:9877
 JijiPlan ,jijiplannode,live.jijiplan.com:9876,live.jijiplan.com:9888,p2p-peer-address = live.jijiplan.com:9876
-KainosBP,kainosblkpro,p2p.kainosbp.com:9876,http://api.kainosbp.com:8888,p2p-peer-address = p2p.kainosbp.com:9876
+KainosBP,kainosblkpro,p2p.kainosbp.com:9876,https://api.kainosbp.com,p2p-peer-address = p2p.kainosbp.com:9876
 Octagon Labs,octagontelos,telos.octagonlabs.net:9876,http://telos.octagonlabs.net,p2p-peer-address = telos.octagonlabs.net:9876
 SwedenCorNet (TELOS/EOS Sweden),swedencornet,telos.eossweden.eu:8012,http://telos.eossweden.eu,p2p-peer-address = telos.eossweden.eu:8012
 Telos Canton,teloscantons,producer.teloscanton.io:5806,https://full.teloscanton.io,p2p-peer-address = producer.teloscanton.io:5806
