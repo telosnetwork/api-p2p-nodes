@@ -4,7 +4,7 @@ blindblocart,blindblocart,109.237.25.217:3876,http://109.237.25.217:3888,p2p-pee
 CalEOS,caleosblocks,38.128.66.165:9876,,p2p-peer-address = 38.128.66.165:9876,,
 EOS Detroit,eosiodetroit,p2p.testnet.telos.eosdetroit.io:1337,https://testnet.telos.eosdetroit.io,p2p-peer-address = p2p.testnet.telos.eosdetroit.io:1337,,
 EOS Nairobi,telosafrique,telosafrique.eosnairobi.io:9376,http://telosafrique.eosnairobi.io:9938,p2p-peer-address = telosafrique.eosnairobi.io:9376,,
-eosBarcelona,eosbarcelona,telos.eosbcn.com:9876,http://telos.eosbcn.com:8080,p2p-peer-address = telos.eosbcn.com:9876,,
+eosBarcelona,eosbarcelona,telos.eosbcn.com:9876,http://telos.eosbcn.com:8180,p2p-peer-address = telos.eosbcn.com:9876,,
 EOSindex,bpeosindexio,testnet.telos.eosindex.io:9876,https://api.testnet.telos.eosindex.io,p2p-peer-address = testnet.telos.eosindex.io:9876,,
 Eosmetal,eosmetaliobp,164.132.203.74:29876,164.132.203.74:28888,p2p-peer-address = 164.132.203.74:29876,,
 EosOU,eosouwallet1,telos.eosou.io:19876,http://api.eosou.io:18888,p2p-peer-address = telos.eosou.io:19876,,
