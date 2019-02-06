@@ -1,7 +1,7 @@
 BP Team Name,BP Account Name,P2P Endpoint,API Endpoint,,,
 AtticLab,atticlabtlbp,159.69.63.222:7776,http://159.69.63.222:7777,p2p-peer-address = 159.69.63.222:7776,,
 blindblocart,blindblocart,109.237.25.217:3876,http://109.237.25.217:3888,p2p-peer-address = 109.237.25.217:3876,,
-CalEOS,caleosblocks,38.128.66.165:9876,,p2p-peer-address = 38.128.66.165:9876,,
+CalEOS,caleosblocks,testnet.telos.caleos.io:9879,https://testnet.telos.caleos.io,p2p-peer-address = testnet.telos.caleos.io:9879,,
 EOS Detroit,eosiodetroit,p2p.testnet.telos.eosdetroit.io:1337,https://testnet.telos.eosdetroit.io,p2p-peer-address = p2p.testnet.telos.eosdetroit.io:1337,,
 EOS Nairobi,telosafrique,telosafrique.eosnairobi.io:9376,http://telosafrique.eosnairobi.io:9938,p2p-peer-address = telosafrique.eosnairobi.io:9376,,
 eosBarcelona,eosbarcelona,telos.eosbcn.com:9876,http://telos.eosbcn.com:8180,p2p-peer-address = telos.eosbcn.com:9876,,
