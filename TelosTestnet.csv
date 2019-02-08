@@ -11,6 +11,7 @@ EosOU,eosouwallet1,telos.eosou.io:19876,http://api.eosou.io:18888,p2p-peer-addre
 infinitybloc,infinitybloc,173.255.220.117:3876,http://173.255.220.117:3888,p2p-peer-address = 173.255.220.117:3876,,
 JijiPlan DAC,jijiplannode,http://207.148.6.75:9876,http://207.148.6.75:8888,p2p-peer-address = http://207.148.6.75:9876,,
 Swedencornet ,swedencornet,testnet.telos.eossweden.eu:8022,https://testnet.telos.eossweden.eu,p2p-peer-address = testnet.telos.eossweden.eu:8022,,
+Telos Central, teloscentral, 178.200.204.188:9876, http://178.200.204.188:8888, p2p-peer-address = 178.200.204.188:9876,,
 Telos Canton,teloscantons,testnode1.teloscanton.io:5806,https://apitestnode1.teloscanton.io,p2p-peer-address = testnode1.teloscanton.io:5806,,
 Telos China,telasiaChina,telos.telasiachina.com:9876,https://testnet.telasiachina.com:8889,p2p-peer-address = telos.telasiachina.com:9876,,
 Telos GoingOS,telgoingosbp,testnet.goingos.org:9876,https://testnet.goingos.org:8889,p2p-peer-address = testnet.goingos.org:9876,,
