@@ -53,3 +53,4 @@ TelosGlobal,telosglobal1,node2.na.telosglobal.io:9876,node2.na.telosglobal.io:88
 TelosGreen,telosgreenbp,p2p.telos.telosgreen.com:9876,http://api.telos.telosgreen.com,p2p-peer-address = p2p.telos.telosgreen.com:9876
 TelosNewYork,telosnewyork,p2p.nytelos.com:8012,https://api.nytelos.com,p2p-peer-address = p2p.nytelos.com:8012
 The Teloscope,theteloscope,p2p.theteloscope.io:9876,https://api.theteloscope.io,p2p-peer-address = p2p.theteloscope.io:9876
+Telos Arabia,telosarabia1,p2p.telosarabia.net:9876,https://api.telosarabia.net,p2p-peer-address = p2p.telosarabia.net:9876
