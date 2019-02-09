@@ -30,7 +30,7 @@ KainosBP,kainosblkpro,p2p.kainosbp.com:9876,https://api.kainosbp.com,p2p-peer-ad
 Octagon Labs,octagontelos,telos.octagonlabs.net:9876,http://telos.octagonlabs.net,p2p-peer-address = telos.octagonlabs.net:9876
 SwedenCorNet (TELOS/EOS Sweden),swedencornet,telos.eossweden.eu:8012,http://telos.eossweden.eu,p2p-peer-address = telos.eossweden.eu:8012
 Telos Canton,teloscantons,producer.teloscanton.io:5806,https://full.teloscanton.io,p2p-peer-address = producer.teloscanton.io:5806
-Telos Central,teloscentral,3.17.74.96:9876,3.17.74.96:8888,p2p-peer-address = 3.17.74.96:9876
+Telos Central,teloscentral,178.200.204.188:61031,http://178.200.204.188:61030,p2p-peer-address = 178.200.204.188:61031
 Telos China,telasiachina,mainnet.telasiachina.com:9876,https://mainnet.telasiachina.com:8889,p2p-peer-address = mainnet.telasiachina.com:9876
 Telos GoingOS,telgoingosbp,telosapi.goingos.org:9876,https://telosapi.goingos.org:8889,p2p-peer-address = telosapi.goingos.org:9876
 Telos Intasia,telosintasia,telosseed.ikuwara.com:9876,telosseed.ikuwara.com:8888,p2p-peer-address = telosseed.ikuwara.com:9876
