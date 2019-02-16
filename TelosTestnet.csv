@@ -23,7 +23,7 @@ Telos New York,telosnewyork,p2p.testnet.nytelos.com:8012,http://api.testnet.nyte
 Telos UK,telosuknodes,testnet-p2p.telosuk.io:9876,https://testnet-api.telosuk.io,p2p-peer-address = testnet-p2p.telosuk.io:9876,,
 Telos Unlimited,telosunlimit,p2p.testnet.telosnulimited.io:9876,https://api.testnet.telosunlimited.io,p2p-peer-address = p2p.testnet.telosnulimited.io:9876,,
 Telos Vancouver,tlsvancouver,testnet.telosvancouver.io:9876,http://testnet.telosvancouver.io:8888,p2p-peer-address = testnet.telosvancouver.io:9876,,
-Telos Venezuela,tlsvenezuela,p2p.telosvenezuela.com:9876,https://api.telosvenezuela.com,p2p-peer-address = p2p.telosvenezuela.com:9876,,
+Telos Venezuela,tlsvenezuela,52.175.200.62:9876,http://52.175.200.62:8888,p2p-peer-address = p2p.telosvenezuela.com:9876,,
 Telos Voyager,telosvoyager,test.p2p.telosvoyager.io:2876,http://test.api.telosvoyager.io:2888,p2p-peer-address = test.p2p.telosvoyager.io:2876,,
 Telos-21Zephyr,21zephyrtlos,testnet.telos-21zephyr.com:9876,http://testnet.telos-21zephyr.com:8888,p2p-peer-address = testnet.telos-21zephyr.com:9876,,
 TelosDAC,telosdacnode,149.28.231.187:9876,http://149.28.231.187:8888,p2p-peer-address = 149.28.231.187:9876,,
