@@ -31,3 +31,4 @@ TelosGlobal,telosglobal1,node1.testnet.telosglobal.io:9876,node1.testnet.telosgl
 TelosGlobal,telosglobal1,node2.testnet.telosglobal.io:9876,node2.testnet.telosglobal.io:8888,p2p-peer-address = node2.testnet.telosglobal.io:9876,,
 The Teloscope,theteloscope,testnet.theteloscope.io:19876,http://testnet.theteloscope.io:18888,p2p-peer-address = testnet.theteloscope.io:19876,,
 GoodBlock.io,goodblocktls,hulk.tlos.goodblock.io,https://api-test.tlos.goodblock.io,p2p-peer-address = hulk.tlos.goodblock.io:9876,,
+EOS South Africa,southafrica1,testnet.telos.africa,https://testnet.telos.africa:4443,p2p-peer-address = testnet.telos.africa:9876,,
