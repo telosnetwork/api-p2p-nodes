@@ -20,7 +20,7 @@ EOSindex,bpeosindexio,seed1.telos.eosindex.io:9876,https://api.telos.eosindex.io
 EOSMetal,eosmetaliobp,94.130.135.208:29876,https://telosapi.eosmetal.io,p2p-peer-address = 94.130.135.208:29876
 EosOU,eosouwallet1,telos.eosou.io:9876,http://api.eosou.io:8888,p2p-peer-address = telos.eosou.io:9876
 EOSphere,eosphereiobp,telos.eosphere.io:9876,https://telos.eosphere.io,p2p-peer-address = telos.eosphere.io:9876
-EOSVenezuela,eosvenezuela,149.28.110.250:9876,http://149.28.110.250:8888,p2p-peer-address = 149.28.110.250:9876
+EOSVenezuela,eosvenezuela,telos.eosvenezuela.io:9876,https://telos.eosvenezuela.io,p2p-peer-address = telos.eosvenezuela.io:9876
 EOSVibes,eosvibesbloc,telos.eosvibes.io:9876,https://telos.eosvibes.io:443,p2p-peer-address = telos.eosvibes.io:9876
 GoodBlock,goodblocktls,chia.seed.tlos.goodblock.io:9876,https://api.tlos.goodblock.io/,p2p-peer-address = chia.seed.tlos.goodblock.io:9876
 GoodBlock,goodblocktls,flax.seed.tlos.goodblock.io:9876,https://api.tlos.goodblock.io/,p2p-peer-address = flax.seed.tlos.goodblock.io:9876
