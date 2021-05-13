@@ -44,13 +44,7 @@ Telos-21Zephyr,21zephyr1111,p2p.telos-21zephyr.com:9876,http://api.telos-21zephy
 Telos-Venezuela,tlsvenezuela,p2p.telosvenezuela.com,https://api.telosvenezuela.com,p2p-peer-address = p2p.telosvenezuela.com
 TelosDAC,telosdacnode,p2p.telosdac.io:9876,https://api.telosdac.io,p2p-peer-address = p2p.telosdac.io:9876
 TelosGermany,telosgermany,apinode.telosgermany:9876,https://apinode.telosgermany.io:443,p2p-peer-address = apinode.telosgermany:9876
-TelosGlobal,telosglobal1,node1.emea.telosglobal.io:9876,node1.emea.telosglobal.io:8888,p2p-peer-address = node1.emea.telosglobal.io:9876
-TelosGlobal,telosglobal1,node2.emea.telosglobal.io:9876,node2.emea.telosglobal.io:8888,p2p-peer-address = node2.emea.telosglobal.io:9876
-TelosGlobal,telosglobal1,node1.apac.telosglobal.io:9876,node1.apac.telosglobal.io:8888,p2p-peer-address = node1.apac.telosglobal.io:9876
-TelosGlobal,telosglobal1,node2.apac.telosglobal.io:9876,node2.apac.telosglobal.io:8888,p2p-peer-address = node2.apac.telosglobal.io:9876
-TelosGlobal,telosglobal1,node1.na.telosglobal.io:9876,node1.na.telosglobal.io:8888,p2p-peer-address = node1.na.telosglobal.io:9876
-TelosGlobal,telosglobal1,node2.na.telosglobal.io:9876,node2.na.telosglobal.io:8888,p2p-peer-address = node2.na.telosglobal.io:9876
+TelosGlobal,telosglobal1,global.telosglobal.io:9876,global.telosglobal.io:8888,p2p-peer-address = global.telosglobal.io:9876
 TelosGreen,telosgreenbp,p2p.telos.telosgreen.com:9876,http://api.telos.telosgreen.com,p2p-peer-address = p2p.telos.telosgreen.com:9876
-TelosNewYork,telosnewyork,p2p.nytelos.com:8012,https://api.nytelos.com,p2p-peer-address = p2p.nytelos.com:8012
 The Teloscope,theteloscope,p2p.theteloscope.io:9876,https://api.theteloscope.io,p2p-peer-address = p2p.theteloscope.io:9876
 Telos Arabia,telosarabia1,p2p.telosarabia.net:9876,https://api.telosarabia.net,p2p-peer-address = p2p.telosarabia.net:9876
